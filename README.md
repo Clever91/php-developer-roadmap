@@ -107,7 +107,7 @@ The repository is created when working on the following YouTube video [PHP Devel
 ### Build Projects
 | Resource Name                                          |Duration| Resource                                     |
 |--------------------------------------------------------|--------|----------------------------------------------|
-| Build PHP Form Widget using OOP Abstraction            | 19m    | https://youtu.be/sBP6HKRW0sM                 |
+| :white_check_mark: Build PHP Form Widget using OOP Abstraction            | 19m    | https://youtu.be/sBP6HKRW0sM                 |
 | Build Shopping Cart with OOP                           | 37m    | https://youtu.be/1Ip7_hdSqzY                 |
 | Create MySql Notes App                                 | 33m    | https://youtu.be/DOsuFRnBqLU                 |
 | How To Create A Login System In PHP For Beginners      | 1h 57m | https://youtu.be/gCo6JqGMi30                 |
