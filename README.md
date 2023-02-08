@@ -115,7 +115,7 @@ The repository is created when working on the following YouTube video [PHP Devel
 ### Build custom MVC Framework
 | Resource Name                                          |Duration| Resource                                                                            |
 |--------------------------------------------------------|--------|-------------------------------------------------------------------------------------|
-| Build PHP MVC Framework                                | 6h     | https://www.youtube.com/watch?v=WKy-N0q3WRo&list=PLLQuc_7jk__Uk_QnJMPndbdKECcTEwTA1 |
+| :white_check_mark: Build PHP MVC Framework                                | 6h     | https://www.youtube.com/watch?v=WKy-N0q3WRo&list=PLLQuc_7jk__Uk_QnJMPndbdKECcTEwTA1 |
 | Create your own PHP Framework                          | N/A    | https://symfony.com/doc/current/create_framework/index.html |
 
 ### What is API
